@@ -1,0 +1,80 @@
+{
+    "websiteTitle": "Portfolio | Bautista Suarez",
+    "websiteDescription": "Bautista Suarez Portfolio",
+
+    "tag": "@Bau-sua",
+    "url": "https://github.com/Bau-sua",
+
+    "title": "Hello! Bautista Suarez here!.",
+
+    "description": "Self-taught AI Engineer specialising in intelligent automation and the development of autonomous agents powered by artificial intelligence.\n With experience in back-end, data analysis and basic machine learning, I help companies optimise repetitive processes through customised AI solutions, from problem identification to implementation in production.",
+
+    "technologiesDescription": "These are some of the technologies and skills I have mastered.",
+    "technologies": [
+        {
+            "textStyle": "text-[#B2EEA9]/80",
+            "backgroundStyle": "bg-[#153015]/60 hover:bg-[#153015]",
+            "items": [
+                "Python",
+                "JavaScript",
+                "TypeScript",
+                "Go lang"
+            ]
+        },
+        {
+            "textStyle": "text-[#8CFFBE]/80",
+            "backgroundStyle": "bg-[#0e5021]/60 hover:bg-[#0e5021]",
+            "items": [
+                "Node.js",
+                "Next.js",
+                "FastAPI",
+                "Django"
+            ]
+        },
+        {
+            "textStyle": "text-[#A0F8FF]/80",
+            "backgroundStyle": "bg-[#0a4152]/60 hover:bg-[#0a4152]",
+            "items": [
+                "LangChain",
+                "LangGraph",
+                "Pocket Flow",
+                "n8n"
+            ]
+        },
+        {
+            "textStyle": "text-[#C0A0FF]/80",
+            "backgroundStyle": "bg-[#27154e]/60 hover:bg-[#27154e]",
+            "items": [
+                "Debugging",
+                "Data Cleaning",
+                "Documentation APIs",
+                "API consumption and orchestration"
+            ]
+        }
+    ],
+
+    "projects": [
+        {
+            "title": "NLPQuickie",
+            "description": "NLPQuickie is a simple and fast Natural Language Processing tool that helps you process text quickly.",
+            "url": "https://github.com/Bau-sua/NLPQuickie",
+            "overlayStyle": "bg-bg-dark/30 group-hover:bg-bg-dark/50",
+            "imageQuality": 75
+        }
+    ],
+
+    "contactText": "Contact me and let's start working!",
+    "contacts": [
+        {
+            "type": "email",
+            "text": "Email",
+            "href": "mailto:devbautistasuarez@gmail.com"
+        }, {
+            "type": "github",
+            "text": "GitHub",
+            "href": "https://github.com/Bau-sua"
+        }
+    ],
+    
+    "repository": "https://github.com/Bau-sua/bau-sua"
+}
