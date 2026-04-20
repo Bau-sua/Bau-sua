@@ -1,11 +1,9 @@
 # Bautista Suarez - AI Engineer
 
 <div align="center">
-  <img src="img/conections.gif" width="100%" height="auto" style="max-width: 100%; height: auto; border-radius: 8px;" alt="AI Connections Banner" />
+  <img src="img/connections.gif" width="100%" height="auto" style="max-width: 100%; height: auto; border-radius: 8px;" alt="AI Connections Banner" />
   <br><br>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=Bau-sua&show_icons=true&theme=radical" alt="GitHub Stats" width="50%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=baudev&theme=radical" alt="Streak" width="40%" />
 </div>
 
 ## Hi there! 👋 I'm Bautista Suarez
