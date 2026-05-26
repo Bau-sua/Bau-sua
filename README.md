@@ -1,11 +1,5 @@
 # Bautista Suarez - AI Engineer
 
-<div align="center">
-  <img src="img/connections.gif" width="100%" height="auto" style="max-width: 100%; height: auto; border-radius: 8px;" alt="AI Connections Banner" />
-  <br><br>
-  
-</div>
-
 ## Hi there! 👋 I'm Bautista Suarez
 
 AI Engineer specializing in **Python 🐍, Go, and Rust**. I help companies **save time and money** with intelligent automations, AI agents, and scalable workflows. Lifelong Python enthusiast!
